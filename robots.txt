@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trancere.github.io/sitemap.html.gz
+Sitemap: https://trancere.github.io/app/sitemap.html.gz
+Sitemap: https://trancere.github.io/assets/sitemap.html.gz
+Sitemap: https://trancere.github.io/css/sitemap.html.gz
+Sitemap: https://trancere.github.io/data/sitemap.html.gz
+Sitemap: https://trancere.github.io/includes/sitemap.html.gz
+Sitemap: https://trancere.github.io/item/sitemap.html.gz
+Sitemap: https://trancere.github.io/src/sitemap.html.gz
